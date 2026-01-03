@@ -90,7 +90,7 @@ def generate_daylight_calendar(city, country, latitude, longitude, timezone, sta
 
 # Load page configuration from secrets
 page_title = st.secrets.get("page", {}).get("page_title", "Daylight Calendar Generator")
-page_icon = st.secrets.get("page", {}).get("page_icon", ":sunny:")
+page_icon = st.secrets.get("page", {}).get("page_icon", "☀️")
 
 st.set_page_config(page_title=page_title, page_icon=page_icon, layout="centered")
 
