@@ -7,6 +7,26 @@ import json
 from icalendar import Calendar, Event
 
 
+def get_season(date_obj):
+    """Determine the season based on the date (Northern Hemisphere)"""
+    month = date_obj.month
+    day = date_obj.day
+    
+    # Spring: March 20 - June 20
+    # Summer: June 21 - September 21
+    # Autumn: September 22 - December 20
+    # Winter: December 21 - March 19
+    
+    if (month == 3 and day >= 20) or month in [4, 5] or (month == 6 and day <= 20):
+        return "spring"
+    elif (month == 6 and day >= 21) or month in [7, 8] or (month == 9 and day <= 21):
+        return "summer"
+    elif (month == 9 and day >= 22) or month in [10, 11] or (month == 12 and day <= 20):
+        return "autumn"
+    else:
+        return "winter"
+
+
 def generate_daylight_calendar(city, country, latitude, longitude, timezone, start_date, end_date):
     try:
         tz = pytz.timezone(timezone)
@@ -264,7 +284,12 @@ if ical_content:
         file_name="daylight_calendar.ics",
         mime="text/calendar"
     )
-    st.balloons()
+    # Show seasonal celebration animation
+    current_season = get_season(date.today())
+    if current_season in ["autumn", "winter"]:
+        st.snow()
+    else:  # spring or summer
+        st.balloons()
 
 # Footer banner - fixed at bottom (from secrets)
 footer = st.secrets.get("page", {}).get("footer", "")
