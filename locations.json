@@ -1,0 +1,2294 @@
+{
+  "Abu Dhabi": {
+    "country": "UAE",
+    "latitude": 24.466666666666665,
+    "longitude": 54.36666666666667,
+    "timezone": "Asia/Dubai"
+  },
+  "Al Jubail": {
+    "country": "Saudi Arabia",
+    "latitude": 25.4,
+    "longitude": -49.65,
+    "timezone": "Asia/Riyadh"
+  },
+  "Amman": {
+    "country": "Jordan",
+    "latitude": 31.95,
+    "longitude": 35.86666666666667,
+    "timezone": "Asia/Amman"
+  },
+  "Ashgabat": {
+    "country": "Turkmenistan",
+    "latitude": 38.0,
+    "longitude": 57.833333333333336,
+    "timezone": "Asia/Ashgabat"
+  },
+  "Astana": {
+    "country": "Kazakhstan",
+    "latitude": 51.166666666666664,
+    "longitude": 71.5,
+    "timezone": "Asia/Qyzylorda"
+  },
+  "Baghdad": {
+    "country": "Iraq",
+    "latitude": 33.333333333333336,
+    "longitude": 44.5,
+    "timezone": "Asia/Baghdad"
+  },
+  "Baku": {
+    "country": "Azerbaijan",
+    "latitude": 40.483333333333334,
+    "longitude": 49.93333333333333,
+    "timezone": "Asia/Baku"
+  },
+  "Bandar Seri Begawan": {
+    "country": "Brunei Darussalam",
+    "latitude": 4.866666666666667,
+    "longitude": 115.0,
+    "timezone": "Asia/Brunei"
+  },
+  "Bangkok": {
+    "country": "Thailand",
+    "latitude": 13.75,
+    "longitude": 100.58333333333333,
+    "timezone": "Asia/Bangkok"
+  },
+  "Beijing": {
+    "country": "China",
+    "latitude": 39.916666666666664,
+    "longitude": 116.33333333333333,
+    "timezone": "Asia/Harbin"
+  },
+  "Beirut": {
+    "country": "Lebanon",
+    "latitude": 33.88333333333333,
+    "longitude": 35.516666666666666,
+    "timezone": "Asia/Beirut"
+  },
+  "Bishkek": {
+    "country": "Kyrgyzstan",
+    "latitude": 42.9,
+    "longitude": 74.76666666666667,
+    "timezone": "Asia/Bishkek"
+  },
+  "Damascus": {
+    "country": "Syrian Arab Republic",
+    "latitude": 33.5,
+    "longitude": 36.3,
+    "timezone": "Asia/Damascus"
+  },
+  "Dammam": {
+    "country": "Saudi Arabia",
+    "latitude": 26.5,
+    "longitude": 50.2,
+    "timezone": "Asia/Riyadh"
+  },
+  "Dhaka": {
+    "country": "Bangladesh",
+    "latitude": 23.716666666666665,
+    "longitude": 90.43333333333334,
+    "timezone": "Asia/Dhaka"
+  },
+  "Dili": {
+    "country": "East Timor",
+    "latitude": -8.483333333333333,
+    "longitude": 125.56666666666666,
+    "timezone": "Asia/Dili"
+  },
+  "Doha": {
+    "country": "Qatar",
+    "latitude": 25.25,
+    "longitude": 51.583333333333336,
+    "timezone": "Asia/Qatar"
+  },
+  "Dushanbe": {
+    "country": "Tajikistan",
+    "latitude": 38.55,
+    "longitude": 68.8,
+    "timezone": "Asia/Dushanbe"
+  },
+  "Hanoi": {
+    "country": "Viet Nam",
+    "latitude": 21.083333333333332,
+    "longitude": 105.91666666666667,
+    "timezone": "Asia/Saigon"
+  },
+  "Hong Kong": {
+    "country": "China",
+    "latitude": 22.266666666666666,
+    "longitude": 114.15,
+    "timezone": "Asia/Hong_Kong"
+  },
+  "Islamabad": {
+    "country": "Pakistan",
+    "latitude": 33.666666666666664,
+    "longitude": 73.16666666666667,
+    "timezone": "Asia/Karachi"
+  },
+  "Jakarta": {
+    "country": "Indonesia",
+    "latitude": -6.15,
+    "longitude": 106.81666666666666,
+    "timezone": "Asia/Jakarta"
+  },
+  "Jerusalem": {
+    "country": "Israel",
+    "latitude": 31.783333333333335,
+    "longitude": 35.2,
+    "timezone": "Asia/Jerusalem"
+  },
+  "Jubail": {
+    "country": "Saudi Arabia",
+    "latitude": 27.033333333333335,
+    "longitude": 49.65,
+    "timezone": "Asia/Riyadh"
+  },
+  "Kabul": {
+    "country": "Afghanistan",
+    "latitude": 34.46666666666667,
+    "longitude": 69.18333333333334,
+    "timezone": "Asia/Kabul"
+  },
+  "Kathmandu": {
+    "country": "Nepal",
+    "latitude": 27.75,
+    "longitude": 85.33333333333333,
+    "timezone": "Asia/Kathmandu"
+  },
+  "Kuala Lumpur": {
+    "country": "Malaysia",
+    "latitude": 3.15,
+    "longitude": 101.68333333333334,
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "Kuwait": {
+    "country": "Kuwait",
+    "latitude": 29.5,
+    "longitude": 48.0,
+    "timezone": "Asia/Kuwait"
+  },
+  "Macau": {
+    "country": "Macao",
+    "latitude": 22.2,
+    "longitude": 113.55,
+    "timezone": "Asia/Macau"
+  },
+  "Madinah": {
+    "country": "Saudi Arabia",
+    "latitude": 24.466666666666665,
+    "longitude": 39.6,
+    "timezone": "Asia/Riyadh"
+  },
+  "Makkah": {
+    "country": "Saudi Arabia",
+    "latitude": 21.433333333333334,
+    "longitude": 39.81666666666667,
+    "timezone": "Asia/Riyadh"
+  },
+  "Manama": {
+    "country": "Bahrain",
+    "latitude": 26.166666666666668,
+    "longitude": 50.5,
+    "timezone": "Asia/Bahrain"
+  },
+  "Manila": {
+    "country": "Philippines",
+    "latitude": 14.666666666666666,
+    "longitude": 121.05,
+    "timezone": "Asia/Manila"
+  },
+  "Masqat": {
+    "country": "Oman",
+    "latitude": 23.616666666666667,
+    "longitude": 58.6,
+    "timezone": "Asia/Muscat"
+  },
+  "Mecca": {
+    "country": "Saudi Arabia",
+    "latitude": 21.433333333333334,
+    "longitude": 39.81666666666667,
+    "timezone": "Asia/Riyadh"
+  },
+  "Medina": {
+    "country": "Saudi Arabia",
+    "latitude": 24.466666666666665,
+    "longitude": 39.6,
+    "timezone": "Asia/Riyadh"
+  },
+  "Mumbai": {
+    "country": "India",
+    "latitude": 18.966666666666665,
+    "longitude": 72.81666666666666,
+    "timezone": "Asia/Kolkata"
+  },
+  "Muscat": {
+    "country": "Oman",
+    "latitude": 23.616666666666667,
+    "longitude": 58.53333333333333,
+    "timezone": "Asia/Muscat"
+  },
+  "Naypyidaw": {
+    "country": "Myanmar",
+    "latitude": 19.75,
+    "longitude": 96.1,
+    "timezone": "Asia/Rangoon"
+  },
+  "New Delhi": {
+    "country": "India",
+    "latitude": 28.616666666666667,
+    "longitude": 77.21666666666667,
+    "timezone": "Asia/Kolkata"
+  },
+  "Nicosia": {
+    "country": "Cyprus",
+    "latitude": 35.166666666666664,
+    "longitude": 33.416666666666664,
+    "timezone": "Asia/Nicosia"
+  },
+  "P'yongyang": {
+    "country": "Democratic People's Republic of Korea",
+    "latitude": 39.15,
+    "longitude": 125.5,
+    "timezone": "Asia/Pyongyang"
+  },
+  "Phnom Penh": {
+    "country": "Cambodia",
+    "latitude": 11.55,
+    "longitude": 104.91666666666667,
+    "timezone": "Asia/Phnom_Penh"
+  },
+  "Riyadh": {
+    "country": "Saudi Arabia",
+    "latitude": 24.683333333333334,
+    "longitude": 46.7,
+    "timezone": "Asia/Riyadh"
+  },
+  "Sana": {
+    "country": "Yemen",
+    "latitude": 15.333333333333334,
+    "longitude": -44.2,
+    "timezone": "Asia/Aden"
+  },
+  "Sana'a": {
+    "country": "Yemen",
+    "latitude": 15.333333333333334,
+    "longitude": -44.2,
+    "timezone": "Asia/Aden"
+  },
+  "Seoul": {
+    "country": "Republic of Korea",
+    "latitude": 37.516666666666666,
+    "longitude": 126.96666666666667,
+    "timezone": "Asia/Seoul"
+  },
+  "Singapore": {
+    "country": "Republic of Singapore",
+    "latitude": 1.3,
+    "longitude": 103.8,
+    "timezone": "Asia/Singapore"
+  },
+  "Sri Jayawardenapura Kotte": {
+    "country": "Sri Lanka",
+    "latitude": 6.9,
+    "longitude": 79.88333333333334,
+    "timezone": "Asia/Colombo"
+  },
+  "Taipei": {
+    "country": "Republic of China (Taiwan)",
+    "latitude": 25.033333333333335,
+    "longitude": 121.63333333333334,
+    "timezone": "Asia/Taipei"
+  },
+  "T'bilisi": {
+    "country": "Georgia",
+    "latitude": 41.71666666666667,
+    "longitude": 44.833333333333336,
+    "timezone": "Asia/Tbilisi"
+  },
+  "Tbilisi": {
+    "country": "Georgia",
+    "latitude": 41.71666666666667,
+    "longitude": 44.833333333333336,
+    "timezone": "Asia/Tbilisi"
+  },
+  "Tashkent": {
+    "country": "Uzbekistan",
+    "latitude": 41.333333333333336,
+    "longitude": 69.16666666666667,
+    "timezone": "Asia/Tashkent"
+  },
+  "Tehran": {
+    "country": "Iran",
+    "latitude": 35.733333333333334,
+    "longitude": 51.5,
+    "timezone": "Asia/Tehran"
+  },
+  "Thimphu": {
+    "country": "Bhutan",
+    "latitude": 27.516666666666666,
+    "longitude": 89.75,
+    "timezone": "Asia/Thimphu"
+  },
+  "Tokyo": {
+    "country": "Japan",
+    "latitude": 35.68333333333333,
+    "longitude": 139.68333333333334,
+    "timezone": "Asia/Tokyo"
+  },
+  "Ulan Bator": {
+    "country": "Mongolia",
+    "latitude": 47.916666666666664,
+    "longitude": 106.91666666666667,
+    "timezone": "Asia/Ulaanbaatar"
+  },
+  "Ulaanbaatar": {
+    "country": "Mongolia",
+    "latitude": 47.916666666666664,
+    "longitude": 106.91666666666667,
+    "timezone": "Asia/Ulaanbaatar"
+  },
+  "Vientiane": {
+    "country": "Lao People's Democratic Republic",
+    "latitude": 17.966666666666665,
+    "longitude": 102.6,
+    "timezone": "Asia/Vientiane"
+  },
+  "Yangon": {
+    "country": "Myanmar",
+    "latitude": 16.75,
+    "longitude": 96.33333333333333,
+    "timezone": "Asia/Rangoon"
+  },
+  "Yerevan": {
+    "country": "Armenia",
+    "latitude": 40.166666666666664,
+    "longitude": 44.516666666666666,
+    "timezone": "Asia/Yerevan"
+  },
+  "Abuja": {
+    "country": "Nigeria",
+    "latitude": 9.083333333333334,
+    "longitude": 7.533333333333333,
+    "timezone": "Africa/Lagos"
+  },
+  "Accra": {
+    "country": "Ghana",
+    "latitude": 5.583333333333333,
+    "longitude": -0.1,
+    "timezone": "Africa/Accra"
+  },
+  "Addis Ababa": {
+    "country": "Ethiopia",
+    "latitude": 9.033333333333333,
+    "longitude": 38.7,
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "Algiers": {
+    "country": "Algeria",
+    "latitude": 36.7,
+    "longitude": 3.1333333333333333,
+    "timezone": "Africa/Algiers"
+  },
+  "Asmara": {
+    "country": "Eritrea",
+    "latitude": 15.316666666666666,
+    "longitude": 38.916666666666664,
+    "timezone": "Africa/Asmara"
+  },
+  "Bamako": {
+    "country": "Mali",
+    "latitude": 12.566666666666666,
+    "longitude": -7.916666666666667,
+    "timezone": "Africa/Bamako"
+  },
+  "Bangui": {
+    "country": "Central African Republic",
+    "latitude": 4.383333333333334,
+    "longitude": 18.583333333333332,
+    "timezone": "Africa/Bangui"
+  },
+  "Banjul": {
+    "country": "Gambia",
+    "latitude": 13.466666666666667,
+    "longitude": -16.666666666666668,
+    "timezone": "Africa/Banjul"
+  },
+  "Bissau": {
+    "country": "Guinea-Bissau",
+    "latitude": 11.75,
+    "longitude": -15.75,
+    "timezone": "Africa/Bissau"
+  },
+  "Bloemfontein": {
+    "country": "South Africa",
+    "latitude": -29.2,
+    "longitude": 26.116666666666667,
+    "timezone": "Africa/Johannesburg"
+  },
+  "Brazzaville": {
+    "country": "Congo",
+    "latitude": -4.15,
+    "longitude": 15.2,
+    "timezone": "Africa/Brazzaville"
+  },
+  "Bujumbura": {
+    "country": "Burundi",
+    "latitude": -3.2666666666666666,
+    "longitude": 29.3,
+    "timezone": "Africa/Bujumbura"
+  },
+  "Cairo": {
+    "country": "Egypt",
+    "latitude": 30.016666666666666,
+    "longitude": 31.233333333333334,
+    "timezone": "Africa/Cairo"
+  },
+  "Cape Town": {
+    "country": "South Africa",
+    "latitude": -33.916666666666664,
+    "longitude": 18.366666666666667,
+    "timezone": "Africa/Johannesburg"
+  },
+  "Conakry": {
+    "country": "Guinea",
+    "latitude": 9.483333333333333,
+    "longitude": -13.816666666666666,
+    "timezone": "Africa/Conakry"
+  },
+  "Cotonou": {
+    "country": "Benin",
+    "latitude": 6.383333333333334,
+    "longitude": 2.7,
+    "timezone": "Africa/Porto-Novo"
+  },
+  "Dakar": {
+    "country": "Senegal",
+    "latitude": 14.566666666666666,
+    "longitude": -17.483333333333334,
+    "timezone": "Africa/Dakar"
+  },
+  "Djibouti": {
+    "country": "Djibouti",
+    "latitude": 11.133333333333333,
+    "longitude": 42.333333333333336,
+    "timezone": "Africa/Djibouti"
+  },
+  "Dodoma": {
+    "country": "United Republic of Tanzania",
+    "latitude": -6.133333333333334,
+    "longitude": 35.75,
+    "timezone": "Africa/Dar_es_Salaam"
+  },
+  "Freetown": {
+    "country": "Sierra Leone",
+    "latitude": 8.5,
+    "longitude": -13.283333333333333,
+    "timezone": "Africa/Freetown"
+  },
+  "Gaborone": {
+    "country": "Botswana",
+    "latitude": -24.75,
+    "longitude": 25.95,
+    "timezone": "Africa/Gaborone"
+  },
+  "Harare": {
+    "country": "Zimbabwe",
+    "latitude": -17.716666666666665,
+    "longitude": 31.033333333333335,
+    "timezone": "Africa/Harare"
+  },
+  "Juba": {
+    "country": "South Sudan",
+    "latitude": 4.85,
+    "longitude": 31.6,
+    "timezone": "Africa/Juba"
+  },
+  "Kampala": {
+    "country": "Uganda",
+    "latitude": 0.3333333333333333,
+    "longitude": 32.5,
+    "timezone": "Africa/Kampala"
+  },
+  "Khartoum": {
+    "country": "Sudan",
+    "latitude": 15.516666666666667,
+    "longitude": 32.583333333333336,
+    "timezone": "Africa/Khartoum"
+  },
+  "Kigali": {
+    "country": "Rwanda",
+    "latitude": -1.9833333333333334,
+    "longitude": 30.066666666666666,
+    "timezone": "Africa/Kigali"
+  },
+  "Kinshasa": {
+    "country": "Democratic Republic of the Congo",
+    "latitude": -4.333333333333333,
+    "longitude": 15.25,
+    "timezone": "Africa/Kinshasa"
+  },
+  "Libreville": {
+    "country": "Gabon",
+    "latitude": 0.4166666666666667,
+    "longitude": 9.433333333333334,
+    "timezone": "Africa/Libreville"
+  },
+  "Lilongwe": {
+    "country": "Malawi",
+    "latitude": -14.0,
+    "longitude": 33.8,
+    "timezone": "Africa/Blantyre"
+  },
+  "Lome": {
+    "country": "Togo",
+    "latitude": 6.15,
+    "longitude": 1.3333333333333333,
+    "timezone": "Africa/Lome"
+  },
+  "Luanda": {
+    "country": "Angola",
+    "latitude": -8.833333333333334,
+    "longitude": 13.25,
+    "timezone": "Africa/Luanda"
+  },
+  "Lusaka": {
+    "country": "Zambia",
+    "latitude": -15.466666666666667,
+    "longitude": 28.266666666666666,
+    "timezone": "Africa/Lusaka"
+  },
+  "Malabo": {
+    "country": "Equatorial Guinea",
+    "latitude": 3.75,
+    "longitude": 8.833333333333334,
+    "timezone": "Africa/Malabo"
+  },
+  "Maputo": {
+    "country": "Mozambique",
+    "latitude": -25.966666666666665,
+    "longitude": 32.53333333333333,
+    "timezone": "Africa/Maputo"
+  },
+  "Maseru": {
+    "country": "Lesotho",
+    "latitude": -29.3,
+    "longitude": 27.5,
+    "timezone": "Africa/Maseru"
+  },
+  "Mbabane": {
+    "country": "Swaziland",
+    "latitude": -26.3,
+    "longitude": 31.1,
+    "timezone": "Africa/Mbabane"
+  },
+  "Mogadishu": {
+    "country": "Somalia",
+    "latitude": 2.033333333333333,
+    "longitude": 45.416666666666664,
+    "timezone": "Africa/Mogadishu"
+  },
+  "Monrovia": {
+    "country": "Liberia",
+    "latitude": 6.3,
+    "longitude": -10.783333333333333,
+    "timezone": "Africa/Monrovia"
+  },
+  "N'Djamena": {
+    "country": "Chad",
+    "latitude": 12.166666666666666,
+    "longitude": 14.983333333333333,
+    "timezone": "Africa/Ndjamena"
+  },
+  "Nairobi": {
+    "country": "Kenya",
+    "latitude": -1.2833333333333332,
+    "longitude": 36.8,
+    "timezone": "Africa/Nairobi"
+  },
+  "Niamey": {
+    "country": "Niger",
+    "latitude": 13.45,
+    "longitude": 2.1,
+    "timezone": "Africa/Niamey"
+  },
+  "Nouakchott": {
+    "country": "Mauritania",
+    "latitude": -20.166666666666668,
+    "longitude": 57.5,
+    "timezone": "Africa/Nouakchott"
+  },
+  "Ouagadougou": {
+    "country": "Burkina Faso",
+    "latitude": 12.25,
+    "longitude": -1.5,
+    "timezone": "Africa/Ouagadougou"
+  },
+  "Porto-Novo": {
+    "country": "Benin",
+    "latitude": 6.383333333333334,
+    "longitude": 2.7,
+    "timezone": "Africa/Porto-Novo"
+  },
+  "Pretoria": {
+    "country": "South Africa",
+    "latitude": -25.733333333333334,
+    "longitude": 28.2,
+    "timezone": "Africa/Johannesburg"
+  },
+  "Rabat": {
+    "country": "Morocco",
+    "latitude": 34.016666666666666,
+    "longitude": -6.833333333333333,
+    "timezone": "Africa/Casablanca"
+  },
+  "Sao Tome": {
+    "country": "Sao Tome and Principe",
+    "latitude": 0.16666666666666666,
+    "longitude": 6.65,
+    "timezone": "Africa/Sao_Tome"
+  },
+  "Tripoli": {
+    "country": "Libyan Arab Jamahiriya",
+    "latitude": 32.81666666666667,
+    "longitude": 13.116666666666667,
+    "timezone": "Africa/Tripoli"
+  },
+  "Tunis": {
+    "country": "Tunisia",
+    "latitude": 36.833333333333336,
+    "longitude": 10.183333333333334,
+    "timezone": "Africa/Tunis"
+  },
+  "Windhoek": {
+    "country": "Namibia",
+    "latitude": -22.583333333333332,
+    "longitude": 17.066666666666666,
+    "timezone": "Africa/Windhoek"
+  },
+  "Yamoussoukro": {
+    "country": "Cote d'Ivoire",
+    "latitude": 6.816666666666666,
+    "longitude": -5.283333333333333,
+    "timezone": "Africa/Abidjan"
+  },
+  "Yaounde": {
+    "country": "Cameroon",
+    "latitude": 3.8333333333333335,
+    "longitude": 11.583333333333334,
+    "timezone": "Africa/Douala"
+  },
+  "Adelaide": {
+    "country": "Australia",
+    "latitude": -34.93333333333333,
+    "longitude": 138.6,
+    "timezone": "Australia/Adelaide"
+  },
+  "Brisbane": {
+    "country": "Australia",
+    "latitude": -27.5,
+    "longitude": 153.01666666666668,
+    "timezone": "Australia/Brisbane"
+  },
+  "Canberra": {
+    "country": "Australia",
+    "latitude": -35.25,
+    "longitude": 149.13333333333333,
+    "timezone": "Australia/Canberra"
+  },
+  "Darwin": {
+    "country": "Australia",
+    "latitude": -12.433333333333334,
+    "longitude": 130.83333333333334,
+    "timezone": "Australia/Darwin"
+  },
+  "Hobart": {
+    "country": "Tasmania",
+    "latitude": -42.88333333333333,
+    "longitude": 147.31666666666666,
+    "timezone": "Australia/Hobart"
+  },
+  "Melbourne": {
+    "country": "Australia",
+    "latitude": -37.8,
+    "longitude": 144.95,
+    "timezone": "Australia/Melbourne"
+  },
+  "Perth": {
+    "country": "Australia",
+    "latitude": -31.933333333333334,
+    "longitude": 115.83333333333333,
+    "timezone": "Australia/Perth"
+  },
+  "Sydney": {
+    "country": "Australia",
+    "latitude": -33.88333333333333,
+    "longitude": 151.21666666666667,
+    "timezone": "Australia/Sydney"
+  },
+  "Amsterdam": {
+    "country": "Netherlands",
+    "latitude": 52.38333333333333,
+    "longitude": 4.9,
+    "timezone": "Europe/Amsterdam"
+  },
+  "Andorra la Vella": {
+    "country": "Andorra",
+    "latitude": 42.516666666666666,
+    "longitude": 1.5333333333333332,
+    "timezone": "Europe/Andorra"
+  },
+  "Ankara": {
+    "country": "Turkey",
+    "latitude": 39.95,
+    "longitude": 32.9,
+    "timezone": "Europe/Istanbul"
+  },
+  "Athens": {
+    "country": "Greece",
+    "latitude": 37.96666666666667,
+    "longitude": 23.766666666666666,
+    "timezone": "Europe/Athens"
+  },
+  "Belfast": {
+    "country": "Northern Ireland",
+    "latitude": 54.6,
+    "longitude": -5.933333333333334,
+    "timezone": "Europe/Belfast"
+  },
+  "Belgrade": {
+    "country": "Yugoslavia",
+    "latitude": 44.833333333333336,
+    "longitude": 20.616666666666667,
+    "timezone": "Europe/Belgrade"
+  },
+  "Berlin": {
+    "country": "Germany",
+    "latitude": 52.5,
+    "longitude": 13.416666666666666,
+    "timezone": "Europe/Berlin"
+  },
+  "Bern": {
+    "country": "Switzerland",
+    "latitude": 46.95,
+    "longitude": 7.466666666666667,
+    "timezone": "Europe/Zurich"
+  },
+  "Bratislava": {
+    "country": "Slovakia",
+    "latitude": 48.166666666666664,
+    "longitude": 17.116666666666667,
+    "timezone": "Europe/Bratislava"
+  },
+  "Brussels": {
+    "country": "Belgium",
+    "latitude": 50.85,
+    "longitude": 4.35,
+    "timezone": "Europe/Brussels"
+  },
+  "Bucharest": {
+    "country": "Romania",
+    "latitude": 44.45,
+    "longitude": 26.166666666666668,
+    "timezone": "Europe/Bucharest"
+  },
+  "Bucuresti": {
+    "country": "Romania",
+    "latitude": 44.45,
+    "longitude": 26.166666666666668,
+    "timezone": "Europe/Bucharest"
+  },
+  "Budapest": {
+    "country": "Hungary",
+    "latitude": 47.483333333333334,
+    "longitude": 19.083333333333332,
+    "timezone": "Europe/Budapest"
+  },
+  "Chisinau": {
+    "country": "Moldova",
+    "latitude": 47.03333333333333,
+    "longitude": 28.833333333333332,
+    "timezone": "Europe/Chisinau"
+  },
+  "Copenhagen": {
+    "country": "Denmark",
+    "latitude": 55.68333333333333,
+    "longitude": 12.566666666666666,
+    "timezone": "Europe/Copenhagen"
+  },
+  "Douglas": {
+    "country": "Isle Of Man",
+    "latitude": 54.15,
+    "longitude": -4.483333333333333,
+    "timezone": "Europe/London"
+  },
+  "Dublin": {
+    "country": "Ireland",
+    "latitude": 53.35,
+    "longitude": -6.25,
+    "timezone": "Europe/Dublin"
+  },
+  "Gibraltar": {
+    "country": "Gibraltar",
+    "latitude": 36.15,
+    "longitude": -5.35,
+    "timezone": "Europe/Gibraltar"
+  },
+  "Helsinki": {
+    "country": "Finland",
+    "latitude": 60.25,
+    "longitude": 25.05,
+    "timezone": "Europe/Helsinki"
+  },
+  "Kiev": {
+    "country": "Ukraine",
+    "latitude": 50.5,
+    "longitude": 30.466666666666665,
+    "timezone": "Europe/Kiev"
+  },
+  "Lisbon": {
+    "country": "Portugal",
+    "latitude": 38.7,
+    "longitude": -9.166666666666666,
+    "timezone": "Europe/Lisbon"
+  },
+  "Ljubljana": {
+    "country": "Slovenia",
+    "latitude": 46.06666666666667,
+    "longitude": 14.55,
+    "timezone": "Europe/Ljubljana"
+  },
+  "London": {
+    "country": "England",
+    "latitude": 51.473333333333336,
+    "longitude": -0.0008333333333333334,
+    "timezone": "Europe/London"
+  },
+  "Luxembourg": {
+    "country": "Luxembourg",
+    "latitude": 49.61666666666667,
+    "longitude": 6.15,
+    "timezone": "Europe/Luxembourg"
+  },
+  "Madrid": {
+    "country": "Spain",
+    "latitude": 40.416666666666664,
+    "longitude": -3.75,
+    "timezone": "Europe/Madrid"
+  },
+  "Minsk": {
+    "country": "Belarus",
+    "latitude": 53.86666666666667,
+    "longitude": 27.5,
+    "timezone": "Europe/Minsk"
+  },
+  "Monaco": {
+    "country": "Priciplality Of Monaco",
+    "latitude": 43.71666666666667,
+    "longitude": 7.416666666666667,
+    "timezone": "Europe/Monaco"
+  },
+  "Moscow": {
+    "country": "Russian Federation",
+    "latitude": 55.75,
+    "longitude": 37.583333333333336,
+    "timezone": "Europe/Moscow"
+  },
+  "Moskva": {
+    "country": "Russian Federation",
+    "latitude": 55.75,
+    "longitude": 37.583333333333336,
+    "timezone": "Europe/Moscow"
+  },
+  "Oslo": {
+    "country": "Norway",
+    "latitude": 59.916666666666664,
+    "longitude": 10.75,
+    "timezone": "Europe/Oslo"
+  },
+  "Paris": {
+    "country": "France",
+    "latitude": 48.833333333333336,
+    "longitude": 2.3333333333333335,
+    "timezone": "Europe/Paris"
+  },
+  "Podgorica": {
+    "country": "Montenegro",
+    "latitude": 42.46666666666667,
+    "longitude": 19.266666666666666,
+    "timezone": "Europe/Podgorica"
+  },
+  "Prague": {
+    "country": "Czech Republic",
+    "latitude": 50.083333333333336,
+    "longitude": 14.366666666666667,
+    "timezone": "Europe/Prague"
+  },
+  "Pristina": {
+    "country": "Albania",
+    "latitude": 42.666666666666664,
+    "longitude": 21.166666666666668,
+    "timezone": "Europe/Tirane"
+  },
+  "Riga": {
+    "country": "Latvia",
+    "latitude": 56.88333333333333,
+    "longitude": 24.133333333333333,
+    "timezone": "Europe/Riga"
+  },
+  "Rome": {
+    "country": "Italy",
+    "latitude": 41.9,
+    "longitude": 12.483333333333333,
+    "timezone": "Europe/Rome"
+  },
+  "San Marino": {
+    "country": "San Marino",
+    "latitude": 43.916666666666664,
+    "longitude": 12.5,
+    "timezone": "Europe/San_Marino"
+  },
+  "Sarajevo": {
+    "country": "Bosnia and Herzegovina",
+    "latitude": 43.86666666666667,
+    "longitude": 18.433333333333334,
+    "timezone": "Europe/Sarajevo"
+  },
+  "Skopje": {
+    "country": "The Former Yugoslav Republic of Macedonia",
+    "latitude": 42.016666666666666,
+    "longitude": 21.433333333333334,
+    "timezone": "Europe/Skopje"
+  },
+  "Sofia": {
+    "country": "Bulgaria",
+    "latitude": 42.75,
+    "longitude": 23.333333333333332,
+    "timezone": "Europe/Sofia"
+  },
+  "St. Peter Port": {
+    "country": "Guernsey",
+    "latitude": 49.43333333333333,
+    "longitude": -2.55,
+    "timezone": "Europe/Guernsey"
+  },
+  "Stockholm": {
+    "country": "Sweden",
+    "latitude": 59.333333333333336,
+    "longitude": 18.083333333333332,
+    "timezone": "Europe/Stockholm"
+  },
+  "Tallinn": {
+    "country": "Estonia",
+    "latitude": 59.36666666666667,
+    "longitude": 24.8,
+    "timezone": "Europe/Tallinn"
+  },
+  "Tirana": {
+    "country": "Albania",
+    "latitude": 41.3,
+    "longitude": 19.816666666666666,
+    "timezone": "Europe/Tirane"
+  },
+  "Tirane": {
+    "country": "Albania",
+    "latitude": 41.3,
+    "longitude": 19.816666666666666,
+    "timezone": "Europe/Tirane"
+  },
+  "Vaduz": {
+    "country": "Liechtenstein",
+    "latitude": 47.13333333333333,
+    "longitude": 9.516666666666667,
+    "timezone": "Europe/Vaduz"
+  },
+  "Valletta": {
+    "country": "Malta",
+    "latitude": 35.9,
+    "longitude": 14.516666666666667,
+    "timezone": "Europe/Malta"
+  },
+  "Vienna": {
+    "country": "Austria",
+    "latitude": 48.2,
+    "longitude": 16.366666666666667,
+    "timezone": "Europe/Vienna"
+  },
+  "Vilnius": {
+    "country": "Lithuania",
+    "latitude": 54.63333333333333,
+    "longitude": 25.316666666666666,
+    "timezone": "Europe/Vilnius"
+  },
+  "Warsaw": {
+    "country": "Poland",
+    "latitude": 52.21666666666667,
+    "longitude": 21.0,
+    "timezone": "Europe/Warsaw"
+  },
+  "Zagreb": {
+    "country": "Croatia",
+    "latitude": 45.833333333333336,
+    "longitude": 15.966666666666667,
+    "timezone": "Europe/Zagreb"
+  },
+  "Zurich": {
+    "country": "Switzerland",
+    "latitude": 47.36666666666667,
+    "longitude": 8.55,
+    "timezone": "Europe/Zurich"
+  },
+  "Aberdeen": {
+    "country": "Scotland",
+    "latitude": 57.13333333333333,
+    "longitude": -2.1,
+    "timezone": "Europe/London"
+  },
+  "Birmingham": {
+    "country": "USA",
+    "latitude": 33.65,
+    "longitude": -86.8,
+    "timezone": "US/Central"
+  },
+  "Bolton": {
+    "country": "England",
+    "latitude": 53.583333333333336,
+    "longitude": -2.25,
+    "timezone": "Europe/London"
+  },
+  "Bradford": {
+    "country": "England",
+    "latitude": 53.78333333333333,
+    "longitude": -1.75,
+    "timezone": "Europe/London"
+  },
+  "Bristol": {
+    "country": "England",
+    "latitude": 51.46666666666667,
+    "longitude": -2.5833333333333335,
+    "timezone": "Europe/London"
+  },
+  "Cardiff": {
+    "country": "Wales",
+    "latitude": 51.483333333333334,
+    "longitude": -3.216666666666667,
+    "timezone": "Europe/London"
+  },
+  "Crawley": {
+    "country": "England",
+    "latitude": 51.13333333333333,
+    "longitude": -0.16666666666666666,
+    "timezone": "Europe/London"
+  },
+  "Edinburgh": {
+    "country": "Scotland",
+    "latitude": 55.95,
+    "longitude": -3.216666666666667,
+    "timezone": "Europe/London"
+  },
+  "Glasgow": {
+    "country": "Scotland",
+    "latitude": 55.833333333333336,
+    "longitude": -4.25,
+    "timezone": "Europe/London"
+  },
+  "Greenwich": {
+    "country": "England",
+    "latitude": 51.46666666666667,
+    "longitude": -0.0,
+    "timezone": "Europe/London"
+  },
+  "Leeds": {
+    "country": "England",
+    "latitude": 53.8,
+    "longitude": -1.5833333333333335,
+    "timezone": "Europe/London"
+  },
+  "Leicester": {
+    "country": "England",
+    "latitude": 52.63333333333333,
+    "longitude": -1.1333333333333333,
+    "timezone": "Europe/London"
+  },
+  "Liverpool": {
+    "country": "England",
+    "latitude": 53.416666666666664,
+    "longitude": -3.0,
+    "timezone": "Europe/London"
+  },
+  "Manchester": {
+    "country": "USA",
+    "latitude": 42.983333333333334,
+    "longitude": -71.45,
+    "timezone": "US/Eastern"
+  },
+  "Newcastle Upon Tyne": {
+    "country": "England",
+    "latitude": 54.983333333333334,
+    "longitude": -1.6,
+    "timezone": "Europe/London"
+  },
+  "Newcastle": {
+    "country": "England",
+    "latitude": 54.983333333333334,
+    "longitude": -1.6,
+    "timezone": "Europe/London"
+  },
+  "Norwich": {
+    "country": "England",
+    "latitude": 52.63333333333333,
+    "longitude": 1.3,
+    "timezone": "Europe/London"
+  },
+  "Oxford": {
+    "country": "England",
+    "latitude": 51.75,
+    "longitude": -1.25,
+    "timezone": "Europe/London"
+  },
+  "Plymouth": {
+    "country": "England",
+    "latitude": 50.416666666666664,
+    "longitude": -4.25,
+    "timezone": "Europe/London"
+  },
+  "Portsmouth": {
+    "country": "England",
+    "latitude": 50.8,
+    "longitude": -1.0833333333333333,
+    "timezone": "Europe/London"
+  },
+  "Reading": {
+    "country": "England",
+    "latitude": 51.45,
+    "longitude": -0.9666666666666667,
+    "timezone": "Europe/London"
+  },
+  "Sheffield": {
+    "country": "England",
+    "latitude": 53.38333333333333,
+    "longitude": -1.4666666666666668,
+    "timezone": "Europe/London"
+  },
+  "Southampton": {
+    "country": "England",
+    "latitude": 50.916666666666664,
+    "longitude": -1.4166666666666667,
+    "timezone": "Europe/London"
+  },
+  "Swansea": {
+    "country": "England",
+    "latitude": 51.61666666666667,
+    "longitude": -3.95,
+    "timezone": "Europe/London"
+  },
+  "Swindon": {
+    "country": "England",
+    "latitude": 51.56666666666667,
+    "longitude": -1.7833333333333332,
+    "timezone": "Europe/London"
+  },
+  "Wolverhampton": {
+    "country": "England",
+    "latitude": 52.583333333333336,
+    "longitude": -2.1333333333333333,
+    "timezone": "Europe/London"
+  },
+  "Barrow-In-Furness": {
+    "country": "England",
+    "latitude": 54.1,
+    "longitude": -3.216666666666667,
+    "timezone": "Europe/London"
+  },
+  "Antananarivo": {
+    "country": "Madagascar",
+    "latitude": -18.916666666666668,
+    "longitude": 47.516666666666666,
+    "timezone": "Indian/Antananarivo"
+  },
+  "Male": {
+    "country": "Maldives",
+    "latitude": 4.0,
+    "longitude": 73.46666666666667,
+    "timezone": "Indian/Maldives"
+  },
+  "Mamoudzou": {
+    "country": "Mayotte",
+    "latitude": -12.8,
+    "longitude": 45.233333333333334,
+    "timezone": "Indian/Mayotte"
+  },
+  "Moroni": {
+    "country": "Comoros",
+    "latitude": -11.666666666666666,
+    "longitude": 43.266666666666666,
+    "timezone": "Indian/Comoro"
+  },
+  "Port Louis": {
+    "country": "Mauritius",
+    "latitude": -20.15,
+    "longitude": 57.5,
+    "timezone": "Indian/Mauritius"
+  },
+  "Apia": {
+    "country": "Samoa",
+    "latitude": -13.833333333333334,
+    "longitude": -171.83333333333334,
+    "timezone": "Pacific/Apia"
+  },
+  "Funafuti": {
+    "country": "Tuvalu",
+    "latitude": -8.516666666666667,
+    "longitude": 179.21666666666667,
+    "timezone": "Pacific/Funafuti"
+  },
+  "Honiara": {
+    "country": "Solomon Islands",
+    "latitude": -9.45,
+    "longitude": 159.95,
+    "timezone": "Pacific/Guadalcanal"
+  },
+  "Kingston": {
+    "country": "Jamaica",
+    "latitude": 18.0,
+    "longitude": -76.83333333333333,
+    "timezone": "America/Jamaica"
+  },
+  "Koror": {
+    "country": "Palau",
+    "latitude": 7.333333333333333,
+    "longitude": 134.46666666666667,
+    "timezone": "Pacific/Palau"
+  },
+  "Majuro": {
+    "country": "Marshall Islands",
+    "latitude": 7.066666666666666,
+    "longitude": 171.26666666666668,
+    "timezone": "Pacific/Majuro"
+  },
+  "Ngerulmud": {
+    "country": "Palau",
+    "latitude": 7.5,
+    "longitude": 134.61666666666667,
+    "timezone": "Pacific/Palau"
+  },
+  "Noumea": {
+    "country": "New Caledonia",
+    "latitude": -22.283333333333335,
+    "longitude": 166.5,
+    "timezone": "Pacific/Noumea"
+  },
+  "Nuku'alofa": {
+    "country": "Tonga",
+    "latitude": -21.166666666666668,
+    "longitude": -174.0,
+    "timezone": "Pacific/Tongatapu"
+  },
+  "Pago Pago": {
+    "country": "American Samoa",
+    "latitude": -14.266666666666667,
+    "longitude": -170.71666666666667,
+    "timezone": "Pacific/Pago_Pago"
+  },
+  "Palikir": {
+    "country": "Micronesia",
+    "latitude": 6.916666666666667,
+    "longitude": 158.15,
+    "timezone": "Pacific/Ponape"
+  },
+  "Papeete": {
+    "country": "French Polynesia",
+    "latitude": -17.533333333333335,
+    "longitude": -149.56666666666666,
+    "timezone": "Pacific/Tahiti"
+  },
+  "Port Moresby": {
+    "country": "Papua New Guinea",
+    "latitude": -9.4,
+    "longitude": 147.13333333333333,
+    "timezone": "Pacific/Port_Moresby"
+  },
+  "Port-Vila": {
+    "country": "Vanuatu",
+    "latitude": -17.75,
+    "longitude": 168.3,
+    "timezone": "Pacific/Efate"
+  },
+  "Saipan": {
+    "country": "Northern Mariana Islands",
+    "latitude": 15.2,
+    "longitude": 145.75,
+    "timezone": "Pacific/Saipan"
+  },
+  "Suva": {
+    "country": "Fiji",
+    "latitude": -18.1,
+    "longitude": 178.5,
+    "timezone": "Pacific/Fiji"
+  },
+  "Tarawa": {
+    "country": "Kiribati",
+    "latitude": 1.5,
+    "longitude": 173.0,
+    "timezone": "Pacific/Tarawa"
+  },
+  "Wellington": {
+    "country": "New Zealand",
+    "latitude": -41.31666666666667,
+    "longitude": 174.76666666666668,
+    "timezone": "Pacific/Auckland"
+  },
+  "Yaren": {
+    "country": "Nauru",
+    "latitude": -0.5333333333333333,
+    "longitude": 166.91666666666666,
+    "timezone": "Pacific/Nauru"
+  },
+  "Asuncion": {
+    "country": "Paraguay",
+    "latitude": -25.166666666666668,
+    "longitude": -57.5,
+    "timezone": "America/Asuncion"
+  },
+  "Basse-Terre": {
+    "country": "Guadeloupe",
+    "latitude": 16.0,
+    "longitude": -61.733333333333334,
+    "timezone": "America/Guadeloupe"
+  },
+  "Basseterre": {
+    "country": "Saint Kitts and Nevis",
+    "latitude": 17.283333333333335,
+    "longitude": -62.71666666666667,
+    "timezone": "America/St_Kitts"
+  },
+  "Belmopan": {
+    "country": "Belize",
+    "latitude": 17.3,
+    "longitude": -88.5,
+    "timezone": "America/Belize"
+  },
+  "Bogota": {
+    "country": "Colombia",
+    "latitude": 4.566666666666666,
+    "longitude": -74.0,
+    "timezone": "America/Bogota"
+  },
+  "Bridgetown": {
+    "country": "Barbados",
+    "latitude": 13.083333333333334,
+    "longitude": -59.5,
+    "timezone": "America/Barbados"
+  },
+  "Buenos Aires": {
+    "country": "Argentina",
+    "latitude": -35.03333333333333,
+    "longitude": -58.733333333333334,
+    "timezone": "America/Buenos_Aires"
+  },
+  "Caracas": {
+    "country": "Venezuela",
+    "latitude": 10.5,
+    "longitude": -66.91666666666667,
+    "timezone": "America/Caracas"
+  },
+  "Castries": {
+    "country": "Saint Lucia",
+    "latitude": 14.033333333333333,
+    "longitude": -60.96666666666667,
+    "timezone": "America/St_Lucia"
+  },
+  "Cayenne": {
+    "country": "French Guiana",
+    "latitude": 5.083333333333333,
+    "longitude": -52.3,
+    "timezone": "America/Cayenne"
+  },
+  "Charlotte Amalie": {
+    "country": "United States of Virgin Islands",
+    "latitude": 18.35,
+    "longitude": -64.93333333333334,
+    "timezone": "America/Virgin"
+  },
+  "Fort-de-France": {
+    "country": "Martinique",
+    "latitude": 14.6,
+    "longitude": -61.03333333333333,
+    "timezone": "America/Martinique"
+  },
+  "George Town": {
+    "country": "Cayman Islands",
+    "latitude": 19.333333333333332,
+    "longitude": -81.4,
+    "timezone": "America/Cayman"
+  },
+  "Georgetown": {
+    "country": "Guyana",
+    "latitude": 6.833333333333333,
+    "longitude": -58.2,
+    "timezone": "America/Guyana"
+  },
+  "Guatemala": {
+    "country": "Guatemala",
+    "latitude": 14.666666666666666,
+    "longitude": -90.36666666666666,
+    "timezone": "America/Guatemala"
+  },
+  "Havana": {
+    "country": "Cuba",
+    "latitude": 23.133333333333333,
+    "longitude": -82.36666666666666,
+    "timezone": "America/Havana"
+  },
+  "Kingstown": {
+    "country": "Saint Vincent and the Grenadines",
+    "latitude": 13.166666666666666,
+    "longitude": -61.166666666666664,
+    "timezone": "America/St_Vincent"
+  },
+  "La Paz": {
+    "country": "Bolivia",
+    "latitude": -16.333333333333332,
+    "longitude": -68.16666666666667,
+    "timezone": "America/La_Paz"
+  },
+  "Lima": {
+    "country": "Peru",
+    "latitude": -12.0,
+    "longitude": -77.0,
+    "timezone": "America/Lima"
+  },
+  "Managua": {
+    "country": "Nicaragua",
+    "latitude": 12.1,
+    "longitude": -86.33333333333333,
+    "timezone": "America/Managua"
+  },
+  "Mexico": {
+    "country": "Mexico",
+    "latitude": 19.333333333333332,
+    "longitude": -99.16666666666667,
+    "timezone": "America/Mexico_City"
+  },
+  "Montevideo": {
+    "country": "Uruguay",
+    "latitude": -34.833333333333336,
+    "longitude": -56.18333333333333,
+    "timezone": "America/Montevideo"
+  },
+  "Nassau": {
+    "country": "Bahamas",
+    "latitude": 25.083333333333332,
+    "longitude": -77.33333333333333,
+    "timezone": "America/Nassau"
+  },
+  "Nuuk": {
+    "country": "Greenland",
+    "latitude": 64.16666666666667,
+    "longitude": -51.583333333333336,
+    "timezone": "America/Godthab"
+  },
+  "Oranjestad": {
+    "country": "Aruba",
+    "latitude": 12.533333333333333,
+    "longitude": -70.03333333333333,
+    "timezone": "America/Aruba"
+  },
+  "Panama": {
+    "country": "Panama",
+    "latitude": 9.0,
+    "longitude": -79.41666666666667,
+    "timezone": "America/Panama"
+  },
+  "Paramaribo": {
+    "country": "Suriname",
+    "latitude": 5.833333333333333,
+    "longitude": -55.166666666666664,
+    "timezone": "America/Paramaribo"
+  },
+  "Port-au-Prince": {
+    "country": "Haiti",
+    "latitude": 18.666666666666668,
+    "longitude": -72.33333333333333,
+    "timezone": "America/Port-au-Prince"
+  },
+  "Port of Spain": {
+    "country": "Trinidad and Tobago",
+    "latitude": 10.666666666666666,
+    "longitude": -61.516666666666666,
+    "timezone": "America/Port_of_Spain"
+  },
+  "Quito": {
+    "country": "Ecuador",
+    "latitude": -0.25,
+    "longitude": -78.58333333333333,
+    "timezone": "America/Guayaquil"
+  },
+  "Road Town": {
+    "country": "British Virgin Islands",
+    "latitude": 18.45,
+    "longitude": -64.61666666666666,
+    "timezone": "America/Virgin"
+  },
+  "Roseau": {
+    "country": "Dominica",
+    "latitude": 15.333333333333334,
+    "longitude": -61.4,
+    "timezone": "America/Dominica"
+  },
+  "Saint Pierre": {
+    "country": "Saint Pierre and Miquelon",
+    "latitude": 46.766666666666666,
+    "longitude": -56.2,
+    "timezone": "America/Miquelon"
+  },
+  "San Jose": {
+    "country": "Costa Rica",
+    "latitude": 9.916666666666666,
+    "longitude": -84.03333333333333,
+    "timezone": "America/Costa_Rica"
+  },
+  "San Juan": {
+    "country": "Puerto Rico",
+    "latitude": 18.466666666666665,
+    "longitude": -66.11666666666666,
+    "timezone": "America/Puerto_Rico"
+  },
+  "San Salvador": {
+    "country": "El Salvador",
+    "latitude": 13.666666666666666,
+    "longitude": -89.16666666666667,
+    "timezone": "America/El_Salvador"
+  },
+  "Santiago": {
+    "country": "Chile",
+    "latitude": -33.4,
+    "longitude": -70.66666666666667,
+    "timezone": "America/Santiago"
+  },
+  "Santo Domingo": {
+    "country": "Dominica Republic",
+    "latitude": 18.5,
+    "longitude": -69.98333333333333,
+    "timezone": "America/Santo_Domingo"
+  },
+  "St. George's": {
+    "country": "Grenada",
+    "latitude": 32.36666666666667,
+    "longitude": -64.66666666666667,
+    "timezone": "America/Grenada"
+  },
+  "St. John's": {
+    "country": "Antigua and Barbuda",
+    "latitude": 17.116666666666667,
+    "longitude": -61.85,
+    "timezone": "America/Antigua"
+  },
+  "Sucre": {
+    "country": "Bolivia",
+    "latitude": -16.333333333333332,
+    "longitude": -68.16666666666667,
+    "timezone": "America/La_Paz"
+  },
+  "Tegucigalpa": {
+    "country": "Honduras",
+    "latitude": 14.083333333333334,
+    "longitude": -87.23333333333333,
+    "timezone": "America/Tegucigalpa"
+  },
+  "W. Indies": {
+    "country": "Antigua and Barbuda",
+    "latitude": 17.333333333333332,
+    "longitude": -61.8,
+    "timezone": "America/Antigua"
+  },
+  "Willemstad": {
+    "country": "Netherlands Antilles",
+    "latitude": 12.083333333333334,
+    "longitude": -69.0,
+    "timezone": "America/Curacao"
+  },
+  "Phoenix": {
+    "country": "USA",
+    "latitude": 33.43333333333333,
+    "longitude": -112.06666666666666,
+    "timezone": "America/Phoenix"
+  },
+  "Vancouver": {
+    "country": "Canada",
+    "latitude": 49.25,
+    "longitude": -123.1,
+    "timezone": "America/Vancouver"
+  },
+  "Calgary": {
+    "country": "Canada",
+    "latitude": 51.03333333333333,
+    "longitude": -114.05,
+    "timezone": "America/Edmonton"
+  },
+  "Edmonton": {
+    "country": "Canada",
+    "latitude": 53.53333333333333,
+    "longitude": -113.48333333333333,
+    "timezone": "America/Edmonton"
+  },
+  "Saskatoon": {
+    "country": "Canada",
+    "latitude": 52.13333333333333,
+    "longitude": -106.66666666666667,
+    "timezone": "America/Regina"
+  },
+  "Regina": {
+    "country": "Canada",
+    "latitude": 50.45,
+    "longitude": -104.6,
+    "timezone": "America/Regina"
+  },
+  "Winnipeg": {
+    "country": "Canada",
+    "latitude": 49.88333333333333,
+    "longitude": -97.13333333333334,
+    "timezone": "America/Winnipeg"
+  },
+  "Toronto": {
+    "country": "Canada",
+    "latitude": 43.65,
+    "longitude": -79.36666666666666,
+    "timezone": "America/Toronto"
+  },
+  "Montreal": {
+    "country": "Canada",
+    "latitude": 45.5,
+    "longitude": -73.55,
+    "timezone": "America/Montreal"
+  },
+  "Quebec": {
+    "country": "Canada",
+    "latitude": 46.8,
+    "longitude": -71.23333333333333,
+    "timezone": "America/Toronto"
+  },
+  "Fredericton": {
+    "country": "Canada",
+    "latitude": 45.95,
+    "longitude": -66.63333333333334,
+    "timezone": "America/Halifax"
+  },
+  "Halifax": {
+    "country": "Canada",
+    "latitude": 44.63333333333333,
+    "longitude": -63.56666666666667,
+    "timezone": "America/Halifax"
+  },
+  "Charlottetown": {
+    "country": "Canada",
+    "latitude": 46.233333333333334,
+    "longitude": -63.11666666666667,
+    "timezone": "America/Halifax"
+  },
+  "Whitehorse": {
+    "country": "Canada",
+    "latitude": 60.71666666666667,
+    "longitude": -135.05,
+    "timezone": "America/Whitehorse"
+  },
+  "Yellowknife": {
+    "country": "Canada",
+    "latitude": 62.45,
+    "longitude": -114.36666666666666,
+    "timezone": "America/Yellowknife"
+  },
+  "Iqaluit": {
+    "country": "Canada",
+    "latitude": 63.733333333333334,
+    "longitude": -68.51666666666667,
+    "timezone": "America/Iqaluit"
+  },
+  "Avarua": {
+    "country": "Cook Islands",
+    "latitude": 21.2,
+    "longitude": -159.76666666666668,
+    "timezone": "Etc/GMT-10"
+  },
+  "Saint Helier": {
+    "country": "Jersey",
+    "latitude": 49.18333333333333,
+    "longitude": -2.1,
+    "timezone": "Etc/GMT"
+  },
+  "Brasilia": {
+    "country": "Brazil",
+    "latitude": -15.783333333333333,
+    "longitude": -47.916666666666664,
+    "timezone": "Brazil/East"
+  },
+  "El Aaiun": {
+    "country": "Morocco",
+    "latitude": 27.15,
+    "longitude": -13.2,
+    "timezone": "UTC"
+  },
+  "Ottawa": {
+    "country": "Canada",
+    "latitude": 45.45,
+    "longitude": -75.7,
+    "timezone": "US/Eastern"
+  },
+  "Washington DC": {
+    "country": "USA",
+    "latitude": 40.516666666666666,
+    "longitude": -77.03333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Montgomery": {
+    "country": "USA",
+    "latitude": 32.35,
+    "longitude": -86.26666666666667,
+    "timezone": "US/Central"
+  },
+  "Juneau": {
+    "country": "USA",
+    "latitude": 58.38333333333333,
+    "longitude": -134.18333333333334,
+    "timezone": "US/Alaska"
+  },
+  "Little Rock": {
+    "country": "USA",
+    "latitude": 34.733333333333334,
+    "longitude": -92.31666666666666,
+    "timezone": "US/Central"
+  },
+  "Sacramento": {
+    "country": "USA",
+    "latitude": 38.55,
+    "longitude": -121.46666666666667,
+    "timezone": "US/Pacific"
+  },
+  "Denver": {
+    "country": "USA",
+    "latitude": 39.733333333333334,
+    "longitude": -104.98333333333333,
+    "timezone": "US/Mountain"
+  },
+  "Hartford": {
+    "country": "USA",
+    "latitude": 41.75,
+    "longitude": -72.68333333333334,
+    "timezone": "US/Eastern"
+  },
+  "Dover": {
+    "country": "USA",
+    "latitude": 39.15,
+    "longitude": -75.51666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Tallahassee": {
+    "country": "USA",
+    "latitude": 30.45,
+    "longitude": -84.26666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Atlanta": {
+    "country": "USA",
+    "latitude": 33.75,
+    "longitude": -84.38333333333334,
+    "timezone": "US/Eastern"
+  },
+  "Honolulu": {
+    "country": "USA",
+    "latitude": 21.3,
+    "longitude": -157.81666666666666,
+    "timezone": "US/Hawaii"
+  },
+  "Boise": {
+    "country": "USA",
+    "latitude": 43.6,
+    "longitude": -116.2,
+    "timezone": "US/Mountain"
+  },
+  "Springfield": {
+    "country": "USA",
+    "latitude": 39.78333333333333,
+    "longitude": -89.65,
+    "timezone": "US/Central"
+  },
+  "Indianapolis": {
+    "country": "USA",
+    "latitude": 39.766666666666666,
+    "longitude": -86.15,
+    "timezone": "US/Eastern"
+  },
+  "Des Moines": {
+    "country": "USA",
+    "latitude": 41.583333333333336,
+    "longitude": -93.61666666666666,
+    "timezone": "US/Central"
+  },
+  "Topeka": {
+    "country": "USA",
+    "latitude": 39.05,
+    "longitude": -95.68333333333334,
+    "timezone": "US/Central"
+  },
+  "Frankfort": {
+    "country": "USA",
+    "latitude": 38.18333333333333,
+    "longitude": -84.85,
+    "timezone": "US/Eastern"
+  },
+  "Baton Rouge": {
+    "country": "USA",
+    "latitude": 30.45,
+    "longitude": -91.13333333333334,
+    "timezone": "US/Central"
+  },
+  "Augusta": {
+    "country": "USA",
+    "latitude": 44.3,
+    "longitude": -69.76666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Annapolis": {
+    "country": "USA",
+    "latitude": 38.96666666666667,
+    "longitude": -76.5,
+    "timezone": "US/Eastern"
+  },
+  "Boston": {
+    "country": "USA",
+    "latitude": 42.35,
+    "longitude": -71.05,
+    "timezone": "US/Eastern"
+  },
+  "Lansing": {
+    "country": "USA",
+    "latitude": 42.733333333333334,
+    "longitude": -84.53333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Saint Paul": {
+    "country": "USA",
+    "latitude": 44.93333333333333,
+    "longitude": -93.08333333333333,
+    "timezone": "US/Central"
+  },
+  "Jackson": {
+    "country": "USA",
+    "latitude": 32.28333333333333,
+    "longitude": -90.18333333333334,
+    "timezone": "US/Central"
+  },
+  "Jefferson City": {
+    "country": "USA",
+    "latitude": 38.56666666666667,
+    "longitude": -92.16666666666667,
+    "timezone": "US/Central"
+  },
+  "Helena": {
+    "country": "USA",
+    "latitude": 46.583333333333336,
+    "longitude": -112.01666666666667,
+    "timezone": "US/Mountain"
+  },
+  "Lincoln": {
+    "country": "USA",
+    "latitude": 40.8,
+    "longitude": -96.66666666666667,
+    "timezone": "US/Central"
+  },
+  "Carson City": {
+    "country": "USA",
+    "latitude": 39.15,
+    "longitude": -119.75,
+    "timezone": "US/Pacific"
+  },
+  "Concord": {
+    "country": "USA",
+    "latitude": 43.2,
+    "longitude": -71.53333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Trenton": {
+    "country": "USA",
+    "latitude": 40.21666666666667,
+    "longitude": -74.75,
+    "timezone": "US/Eastern"
+  },
+  "Santa Fe": {
+    "country": "USA",
+    "latitude": 35.666666666666664,
+    "longitude": -105.95,
+    "timezone": "US/Mountain"
+  },
+  "Albany": {
+    "country": "USA",
+    "latitude": 42.65,
+    "longitude": -73.76666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Raleigh": {
+    "country": "USA",
+    "latitude": 35.81666666666667,
+    "longitude": -78.63333333333334,
+    "timezone": "US/Eastern"
+  },
+  "Bismarck": {
+    "country": "USA",
+    "latitude": 46.8,
+    "longitude": -100.76666666666667,
+    "timezone": "US/Central"
+  },
+  "Columbus": {
+    "country": "USA",
+    "latitude": 39.983333333333334,
+    "longitude": -82.98333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Oklahoma City": {
+    "country": "USA",
+    "latitude": 35.46666666666667,
+    "longitude": -97.53333333333333,
+    "timezone": "US/Central"
+  },
+  "Salem": {
+    "country": "USA",
+    "latitude": 44.916666666666664,
+    "longitude": -123.01666666666667,
+    "timezone": "US/Pacific"
+  },
+  "Harrisburg": {
+    "country": "USA",
+    "latitude": 40.266666666666666,
+    "longitude": -76.86666666666666,
+    "timezone": "US/Eastern"
+  },
+  "Providence": {
+    "country": "USA",
+    "latitude": 41.81666666666667,
+    "longitude": -71.41666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Columbia": {
+    "country": "USA",
+    "latitude": 34.0,
+    "longitude": -81.03333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Pierre": {
+    "country": "USA",
+    "latitude": 44.36666666666667,
+    "longitude": -100.33333333333333,
+    "timezone": "US/Central"
+  },
+  "Nashville": {
+    "country": "USA",
+    "latitude": 36.166666666666664,
+    "longitude": -86.78333333333333,
+    "timezone": "US/Central"
+  },
+  "Austin": {
+    "country": "USA",
+    "latitude": 30.266666666666666,
+    "longitude": -97.75,
+    "timezone": "US/Central"
+  },
+  "Salt Lake City": {
+    "country": "USA",
+    "latitude": 40.75,
+    "longitude": -111.88333333333334,
+    "timezone": "US/Mountain"
+  },
+  "Montpelier": {
+    "country": "USA",
+    "latitude": 44.25,
+    "longitude": -72.56666666666666,
+    "timezone": "US/Eastern"
+  },
+  "Richmond": {
+    "country": "USA",
+    "latitude": 37.53333333333333,
+    "longitude": -77.41666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Olympia": {
+    "country": "USA",
+    "latitude": 47.03333333333333,
+    "longitude": -122.88333333333334,
+    "timezone": "US/Pacific"
+  },
+  "Charleston": {
+    "country": "USA",
+    "latitude": 38.333333333333336,
+    "longitude": -81.63333333333334,
+    "timezone": "US/Eastern"
+  },
+  "Madison": {
+    "country": "USA",
+    "latitude": 43.06666666666667,
+    "longitude": -89.4,
+    "timezone": "US/Central"
+  },
+  "Cheyenne": {
+    "country": "USA",
+    "latitude": 41.13333333333333,
+    "longitude": -104.8,
+    "timezone": "US/Mountain"
+  },
+  "Anchorage": {
+    "country": "USA",
+    "latitude": 61.21666666666667,
+    "longitude": -149.88333333333333,
+    "timezone": "US/Alaska"
+  },
+  "Los Angeles": {
+    "country": "USA",
+    "latitude": 34.05,
+    "longitude": -118.25,
+    "timezone": "US/Pacific"
+  },
+  "San Francisco": {
+    "country": "USA",
+    "latitude": 37.766666666666666,
+    "longitude": -122.41666666666667,
+    "timezone": "US/Pacific"
+  },
+  "Bridgeport": {
+    "country": "USA",
+    "latitude": 41.18333333333333,
+    "longitude": -73.18333333333334,
+    "timezone": "US/Eastern"
+  },
+  "Wilmington": {
+    "country": "USA",
+    "latitude": 39.733333333333334,
+    "longitude": -75.53333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Jacksonville": {
+    "country": "USA",
+    "latitude": 30.316666666666666,
+    "longitude": -81.65,
+    "timezone": "US/Eastern"
+  },
+  "Miami": {
+    "country": "USA",
+    "latitude": 26.133333333333333,
+    "longitude": -80.2,
+    "timezone": "US/Eastern"
+  },
+  "Chicago": {
+    "country": "USA",
+    "latitude": 41.833333333333336,
+    "longitude": -87.68333333333334,
+    "timezone": "US/Central"
+  },
+  "Wichita": {
+    "country": "USA",
+    "latitude": 37.68333333333333,
+    "longitude": -97.33333333333333,
+    "timezone": "US/Central"
+  },
+  "Louisville": {
+    "country": "USA",
+    "latitude": 38.25,
+    "longitude": -85.75,
+    "timezone": "US/Eastern"
+  },
+  "New Orleans": {
+    "country": "USA",
+    "latitude": 29.95,
+    "longitude": -90.06666666666666,
+    "timezone": "US/Central"
+  },
+  "Portland": {
+    "country": "USA",
+    "latitude": 43.65,
+    "longitude": -70.26666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Baltimore": {
+    "country": "USA",
+    "latitude": 39.28333333333333,
+    "longitude": -76.61666666666666,
+    "timezone": "US/Eastern"
+  },
+  "Detroit": {
+    "country": "USA",
+    "latitude": 42.31666666666667,
+    "longitude": -83.03333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Minneapolis": {
+    "country": "USA",
+    "latitude": 44.96666666666667,
+    "longitude": -93.25,
+    "timezone": "US/Central"
+  },
+  "Kansas City": {
+    "country": "USA",
+    "latitude": 39.1,
+    "longitude": -94.58333333333333,
+    "timezone": "US/Central"
+  },
+  "Billings": {
+    "country": "USA",
+    "latitude": 45.78333333333333,
+    "longitude": -108.53333333333333,
+    "timezone": "US/Mountain"
+  },
+  "Omaha": {
+    "country": "USA",
+    "latitude": 41.25,
+    "longitude": -96.0,
+    "timezone": "US/Central"
+  },
+  "Las Vegas": {
+    "country": "USA",
+    "latitude": 36.166666666666664,
+    "longitude": -115.13333333333334,
+    "timezone": "US/Pacific"
+  },
+  "Newark": {
+    "country": "USA",
+    "latitude": 40.733333333333334,
+    "longitude": -74.18333333333334,
+    "timezone": "US/Eastern"
+  },
+  "Albuquerque": {
+    "country": "USA",
+    "latitude": 35.1,
+    "longitude": -106.6,
+    "timezone": "US/Mountain"
+  },
+  "New York": {
+    "country": "USA",
+    "latitude": 40.71666666666667,
+    "longitude": -74.0,
+    "timezone": "US/Eastern"
+  },
+  "Charlotte": {
+    "country": "USA",
+    "latitude": 35.21666666666667,
+    "longitude": -80.83333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Fargo": {
+    "country": "USA",
+    "latitude": 46.86666666666667,
+    "longitude": -96.78333333333333,
+    "timezone": "US/Central"
+  },
+  "Cleveland": {
+    "country": "USA",
+    "latitude": 41.46666666666667,
+    "longitude": -81.66666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Philadelphia": {
+    "country": "USA",
+    "latitude": 39.95,
+    "longitude": -75.16666666666667,
+    "timezone": "US/Eastern"
+  },
+  "Sioux Falls": {
+    "country": "USA",
+    "latitude": 43.53333333333333,
+    "longitude": -96.71666666666667,
+    "timezone": "US/Central"
+  },
+  "Memphis": {
+    "country": "USA",
+    "latitude": 35.11666666666667,
+    "longitude": -89.96666666666667,
+    "timezone": "US/Central"
+  },
+  "Houston": {
+    "country": "USA",
+    "latitude": 29.75,
+    "longitude": -95.36666666666666,
+    "timezone": "US/Central"
+  },
+  "Dallas": {
+    "country": "USA",
+    "latitude": 32.78333333333333,
+    "longitude": -96.8,
+    "timezone": "US/Central"
+  },
+  "Burlington": {
+    "country": "USA",
+    "latitude": 44.46666666666667,
+    "longitude": -73.15,
+    "timezone": "US/Eastern"
+  },
+  "Virginia Beach": {
+    "country": "USA",
+    "latitude": 36.833333333333336,
+    "longitude": -76.08333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Seattle": {
+    "country": "USA",
+    "latitude": 47.6,
+    "longitude": -122.31666666666666,
+    "timezone": "US/Pacific"
+  },
+  "Milwaukee": {
+    "country": "USA",
+    "latitude": 43.05,
+    "longitude": -87.95,
+    "timezone": "US/Central"
+  },
+  "San Diego": {
+    "country": "USA",
+    "latitude": 32.7,
+    "longitude": -117.15,
+    "timezone": "US/Pacific"
+  },
+  "Orlando": {
+    "country": "USA",
+    "latitude": 28.533333333333335,
+    "longitude": -81.36666666666666,
+    "timezone": "US/Eastern"
+  },
+  "Buffalo": {
+    "country": "USA",
+    "latitude": 42.9,
+    "longitude": -78.83333333333333,
+    "timezone": "US/Eastern"
+  },
+  "Toledo": {
+    "country": "USA",
+    "latitude": 41.65,
+    "longitude": -83.56666666666666,
+    "timezone": "US/Eastern"
+  },
+  "Praia": {
+    "country": "Cape Verde",
+    "latitude": 15.033333333333333,
+    "longitude": -23.566666666666666,
+    "timezone": "Atlantic/Cape_Verde"
+  },
+  "Reykjavik": {
+    "country": "Iceland",
+    "latitude": 64.16666666666667,
+    "longitude": -21.95,
+    "timezone": "Atlantic/Reykjavik"
+  },
+  "Stanley": {
+    "country": "Falkland Islands",
+    "latitude": -51.666666666666664,
+    "longitude": -59.85,
+    "timezone": "Atlantic/Stanley"
+  },
+  "Torshavn": {
+    "country": "Faroe Islands",
+    "latitude": 62.083333333333336,
+    "longitude": -6.933333333333334,
+    "timezone": "Atlantic/Faroe"
+  },
+  "Rovaniemi": {
+    "country": "Finland",
+    "latitude": 66.5039,
+    "longitude": 25.7294,
+    "timezone": "Europe/Helsinki"
+  }
+}
