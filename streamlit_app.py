@@ -37,10 +37,19 @@ def generate_daylight_calendar(city, country, latitude, longitude, timezone, sta
                 
                 event = Event()
                 event.add("summary", f"☀️ Daylight: {hours}h {minutes}min")
+                # Format coordinates with correct direction
+                lat_dir = "N" if latitude >= 0 else "S"
+                lon_dir = "E" if longitude >= 0 else "W"
+                
+                # Format location string
+                location_str = city
+                if country:
+                    location_str += f", {country}"
+                
                 event.add(
                     "description",
-                    f"📍 Location: {city}, {country}\n"
-                    f"🌐 Coordinates: {latitude}°N, {longitude}°E\n"
+                    f"📍 Location: {location_str}\n"
+                    f"🌐 Coordinates: {abs(latitude):.4f}°{lat_dir}, {abs(longitude):.4f}°{lon_dir}\n"
                     f"🕐 Timezone: {timezone}\n"
                     f"\n"
                     f"🌅 Sunrise: {sunrise.strftime('%H:%M:%S')}\n"
@@ -60,12 +69,21 @@ def generate_daylight_calendar(city, country, latitude, longitude, timezone, sta
                 
             except Exception:
                 # Polar night / midnight sun
+                # Format coordinates with correct direction
+                lat_dir = "N" if latitude >= 0 else "S"
+                lon_dir = "E" if longitude >= 0 else "W"
+                
+                # Format location string
+                location_str = city
+                if country:
+                    location_str += f", {country}"
+                
                 event = Event()
                 event.add("summary", "🌑 Polar Night / Midnight Sun")
                 event.add(
                     "description",
-                    f"📍 Location: {city}, {country}\n"
-                    f"🌐 Coordinates: {latitude}°N, {longitude}°E\n"
+                    f"📍 Location: {location_str}\n"
+                    f"🌐 Coordinates: {abs(latitude):.4f}°{lat_dir}, {abs(longitude):.4f}°{lon_dir}\n"
                     f"\n"
                     f"No sunrise or sunset on this day.\n"
                     f"\n"
@@ -113,25 +131,76 @@ st.divider()
 
 st.subheader("Generate your calendar")
 
+# Location input mode selection
+location_mode = st.radio(
+    "Location input method",
+    ["Pre-configured city", "Custom coordinates"],
+    horizontal=True
+)
+
 # Load locations from JSON file
 with open("locations.json", "r", encoding="utf-8") as f:
     LOCATIONS = json.load(f)
 
-# City selection with autocomplete
-all_cities = sorted(LOCATIONS.keys())
-default_index = all_cities.index("Rovaniemi") if "Rovaniemi" in all_cities else 0
-selected_city = st.selectbox("City", all_cities, index=default_index)
-
-# Get location info from JSON
-location_data = LOCATIONS[selected_city]
-city = selected_city
-country = location_data["country"]
-latitude = location_data["latitude"]
-longitude = location_data["longitude"]
-default_timezone = location_data["timezone"]
-
-# Display the location details (updates immediately when city changes)
-st.info(f"Location: {city}, {country} | Coordinates: {latitude:.2f}, {longitude:.2f}")
+if location_mode == "Pre-configured city":
+    # City selection with autocomplete
+    all_cities = sorted(LOCATIONS.keys())
+    default_index = all_cities.index("Rovaniemi") if "Rovaniemi" in all_cities else 0
+    selected_city = st.selectbox("City", all_cities, index=default_index)
+    
+    # Get location info from JSON
+    location_data = LOCATIONS[selected_city]
+    city = selected_city
+    country = location_data["country"]
+    latitude = location_data["latitude"]
+    longitude = location_data["longitude"]
+    default_timezone = location_data["timezone"]
+    
+    # Display the location details (updates immediately when city changes)
+    st.info(f"Location: {city}, {country} | Coordinates: {latitude:.2f}, {longitude:.2f}")
+else:
+    # Custom coordinates input
+    st.markdown("**Enter custom location coordinates:**")
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        latitude = st.number_input(
+            "Latitude",
+            min_value=-90.0,
+            max_value=90.0,
+            value=66.5039,
+            step=0.0001,
+            format="%.4f",
+            help="Latitude ranges from -90 (South Pole) to 90 (North Pole)"
+        )
+    with col2:
+        longitude = st.number_input(
+            "Longitude",
+            min_value=-180.0,
+            max_value=180.0,
+            value=25.7294,
+            step=0.0001,
+            format="%.4f",
+            help="Longitude ranges from -180 to 180 degrees. 0 at Greenwich (Prime Meridian)"
+        )
+    
+    col3, col4 = st.columns(2)
+    with col3:
+        city = st.text_input("City name", value="", help="Required: Used for display purposes in the calendar")
+    with col4:
+        country = st.text_input("Country name", value="", help="Required: Used for display purposes in the calendar")
+    
+    # Default timezone for custom location (can be changed by user)
+    default_timezone = "UTC"
+    
+    # Display the location details
+    location_parts = []
+    if city:
+        location_parts.append(f"Location: {city}")
+        if country:
+            location_parts[-1] += f", {country}"
+    location_parts.append(f"Coordinates: {latitude:.4f}, {longitude:.4f}")
+    st.info(" | ".join(location_parts))
 
 # Timezone selector with UTC offset
 all_timezones = pytz.all_timezones
@@ -177,6 +246,10 @@ ical_content = None
 if st.button("Generate", type="primary"):
     if start_date > end_date:
         st.error("Start date must be before end date!")
+    elif location_mode == "Custom coordinates" and (not city or not city.strip()):
+        st.error("City name is required!")
+    elif location_mode == "Custom coordinates" and (not country or not country.strip()):
+        st.error("Country name is required!")
     else:
         ical_content = generate_daylight_calendar(
             city, country, latitude, longitude, timezone, start_date, end_date
