@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/README-banner.png" alt="Banner" style="border-radius: 17px; width: 100%; max-width: 800px; height: auto;">
+  <img src="./assets/banner-README.png" alt="Banner" style="border-radius: 17px; width: 100%; max-width: 800px; height: auto;">
 </div>
 
 <h3 align="center">
-  <b><a href="azerty-labs.com">Online App</a></b>
+  <b><a href="chloelavrat.com">My Blog</a></b>
   •
   <b><a href="#usage">Usage</a></b>
   •
-  <b><a href="https://github.com/chloelavrat/sunlight-calendar-generator/blob/main/assets/banner.png">App Screenshot</a></b>
+  <b><a href="https://github.com/chloelavrat/sunlight-calendar-generator/blob/main/assets/banner-README.png">App Screenshot</a></b>
 </h3>
 
 <div align="center">
