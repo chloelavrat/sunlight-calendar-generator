@@ -88,8 +88,18 @@ def generate_daylight_calendar(city, country, latitude, longitude, timezone, sta
         return None
 
 
-st.set_page_config(page_title="Daylight Calendar Generator", page_icon=":sunny:")
-st.image("banner.png", width='stretch')
+# Load page configuration from secrets
+page_title = st.secrets.get("page", {}).get("page_title", "Daylight Calendar Generator")
+page_icon = st.secrets.get("page", {}).get("page_icon", ":sunny:")
+
+st.set_page_config(page_title=page_title, page_icon=page_icon, layout="centered")
+
+# Hide menu if configured
+hide_menu_style = st.secrets.get("page", {}).get("hide_menu_style", "")
+if hide_menu_style:
+    st.markdown(hide_menu_style, unsafe_allow_html=True)
+
+st.image("assets/banner.png", width='stretch')
 st.subheader("Track sunrise, sunset, and daylight hours")
 st.markdown("""
 **Sometimes light is a resource that needs to be optimized!**
@@ -183,36 +193,8 @@ if ical_content:
     )
     st.balloons()
 
-# Footer banner - fixed at bottom
-st.markdown(
-    """
-    <style>
-    a:link, a:visited {
-        color: blue;
-        background-color: transparent;
-        text-decoration: underline;
-    }
-    a:hover, a:active {
-        color: red;
-        background-color: transparent;
-        text-decoration: underline;
-    }
-    .footer {
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        background-color: #f0f2f6;
-        color: #666;
-        text-align: center;
-        padding: 15px 0;
-        border-top: 1px solid #e0e0e0;
-    }
-    </style>
-    <div class="footer">
-        <p style="margin: 0;">☀️ Made with love by <a href="https://chloelavrat.com" target="_blank"><bold>Chloé Lavrat</bold></a> ❤️</p>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+# Footer banner - fixed at bottom (from secrets)
+footer = st.secrets.get("page", {}).get("footer", "")
+if footer:
+    st.markdown(footer, unsafe_allow_html=True)
 
